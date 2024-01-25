@@ -1,0 +1,19 @@
+{
+  "name": "reactmodal",
+  "version": "1.0.0",
+  "description": "A react modal for anyone that want some modal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElAv252/reactModal.git"
+  },
+  "author": "ElAv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElAv252/reactModal/issues"
+  },
+  "homepage": "https://github.com/ElAv252/reactModal#readme"
+}
